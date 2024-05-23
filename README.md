@@ -1,16 +1,16 @@
 # What is this?
 
-## GDScript Version
+## C#
 There is a GDScript and C# version available.
 
-This is the GDScript version, you can find the C# version [here]().
+This is the C# version, you can find the GDScript version [here](https://github.com/Bitlytic/Strategy-GDScript).
 
 ### Template Project
 This is a top down arena shooter that uses Composition and the Strategy Pattern. It is designed in such a way that you can clone this github repo and use it as a template with a few things ready to go. The assets in this project have also been chosen so that you can use them for quick prototyping and if you decide to go commercial, there is no licensing other than giving credit due.
 
 
 ### GDScript & C#
-This project is full of comments, the C# version has nearly the same comments. If you are interested in learning C# and you know GDScript or vice-versa, doing a search for the text inside of comments is a great way to see how something in one language is done in the other.
+This project is full of comments, the GDScript version has nearly the same comments. If you are interested in learning GDScript and you know C# or vice-versa, doing a search for the text inside of comments is a great way to see how something in one language is done in the other.
 
 ### Strategy Pattern
 This is a project that uses the Strategy Pattern for my tutorial on [YouTube](www.youtube.com/bitlytic) made in Godot 4.2
