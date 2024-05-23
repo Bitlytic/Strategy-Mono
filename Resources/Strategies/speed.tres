@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="SpeedBulletStrategy" load_steps=3 format=3 uid="uid://b1ylfra7vpcdg"]
+
+[ext_resource type="Script" path="res://Util/Strategy/SpeedBulletStrategy.cs" id="1_3u7gr"]
+[ext_resource type="Texture2D" uid="uid://30ltamteuvkx" path="res://Art/Kenney/carrot.png" id="1_u1645"]
+
+[resource]
+script = ExtResource("1_3u7gr")
+_speed = 50.0
+Texture = ExtResource("1_u1645")
+UpgradeText = "Speed"

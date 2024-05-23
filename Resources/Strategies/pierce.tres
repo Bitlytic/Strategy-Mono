@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="PierceBulletStrategy" load_steps=3 format=3 uid="uid://delhh56n8n6at"]
+
+[ext_resource type="Texture2D" uid="uid://c26ro5ifb4gg4" path="res://Art/Kenney/potion.png" id="1_e2ta4"]
+[ext_resource type="Script" path="res://Util/Strategy/PierceBulletStrategy.cs" id="1_i356y"]
+
+[resource]
+script = ExtResource("1_i356y")
+Texture = ExtResource("1_e2ta4")
+UpgradeText = "Pierce"

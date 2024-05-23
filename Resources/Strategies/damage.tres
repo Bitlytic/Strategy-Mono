@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="DamageBulletStrategy" load_steps=3 format=3 uid="uid://eulxxwfuau37"]
+
+[ext_resource type="Texture2D" uid="uid://53h01ho1lvwp" path="res://Art/Kenney/fish.png" id="1_jjwsh"]
+[ext_resource type="Script" path="res://Util/Strategy/DamageBulletStrategy.cs" id="1_q2fx4"]
+
+[resource]
+script = ExtResource("1_q2fx4")
+_damage = 5.0
+Texture = ExtResource("1_jjwsh")
+UpgradeText = "Damage"
